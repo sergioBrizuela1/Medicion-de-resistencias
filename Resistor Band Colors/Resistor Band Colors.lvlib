@@ -10,7 +10,7 @@
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="black--constant.vi" Type="VI" URL="../black--constant.vi"/>
-		<Item Name="Blue--constant.vi" Type="VI" URL="../Blue--constant.vi"/>
+		<Item Name="blue--constant.vi" Type="VI" URL="../blue--constant.vi"/>
 		<Item Name="brown--constant.vi" Type="VI" URL="../brown--constant.vi"/>
 		<Item Name="gold--constant.vi" Type="VI" URL="../gold--constant.vi"/>
 		<Item Name="gray--constant.vi" Type="VI" URL="../gray--constant.vi"/>

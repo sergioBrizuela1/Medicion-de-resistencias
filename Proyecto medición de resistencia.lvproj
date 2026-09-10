@@ -21,15 +21,19 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Type Def" Type="Folder">
-			<Item Name="Digit.ctl" Type="VI" URL="../../../Ramon Taboada/ProyectoPrueba/Digit.ctl"/>
-			<Item Name="Multiplier.ctl" Type="VI" URL="../Multiplier.ctl"/>
-			<Item Name="Temp Coef.ctl" Type="VI" URL="../../../Ramon Taboada/ProyectoPrueba/Temp Coef.ctl"/>
-			<Item Name="Tolerance.ctl" Type="VI" URL="../../../Ramon Taboada/ProyectoPrueba/Tolerance.ctl"/>
-			<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
-			<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
+			<Item Name="Digit--control.ctl" Type="VI" URL="../../../Ramon Taboada/ProyectoPrueba/Digit--control.ctl"/>
+			<Item Name="Multiplier--control.ctl" Type="VI" URL="../Multiplier--control.ctl"/>
+			<Item Name="Temp Coef--control.ctl" Type="VI" URL="../../../Ramon Taboada/ProyectoPrueba/Temp Coef--control.ctl"/>
+			<Item Name="Tolerance--control.ctl" Type="VI" URL="../../../Ramon Taboada/ProyectoPrueba/Tolerance--control.ctl"/>
+			<Item Name="Data--control.ctl" Type="VI" URL="../Data--control.ctl"/>
+			<Item Name="States--control.ctl" Type="VI" URL="../States--control.ctl"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="Read CSV File.vi" Type="VI" URL="../Read CSV File.vi"/>
+			<Item Name="Digit to color converter.vi" Type="VI" URL="../Digit to color converter.vi"/>
+			<Item Name="Multiplier to color converter.vi" Type="VI" URL="../Multiplier to color converter.vi"/>
+			<Item Name="Tolerance to color converter.vi" Type="VI" URL="../Tolerance to color converter.vi"/>
+			<Item Name="Temp Coef color converter.vi" Type="VI" URL="../Temp Coef color converter.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
@@ -78,6 +82,7 @@
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
