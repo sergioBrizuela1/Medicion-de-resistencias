@@ -9,6 +9,7 @@
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="black--constant.vi" Type="VI" URL="../black--constant.vi"/>
 		<Item Name="blue--constant.vi" Type="VI" URL="../blue--constant.vi"/>
 		<Item Name="brown--constant.vi" Type="VI" URL="../brown--constant.vi"/>
