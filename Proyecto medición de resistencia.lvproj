@@ -41,6 +41,7 @@
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
 		<Item Name="E Series Reader.lvlib" Type="Library" URL="../E Series Reader/E Series Reader.lvlib"/>
 		<Item Name="Untitled 3.vi" Type="VI" URL="../Untitled 3.vi"/>
+		<Item Name="Initialize Resistor Interface.vi" Type="VI" URL="../Initialize Resistor Interface.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
