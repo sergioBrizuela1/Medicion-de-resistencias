@@ -33,12 +33,12 @@
 			<Item Name="multiplier to index converter.vi" Type="VI" URL="../multiplier to index converter.vi"/>
 			<Item Name="Initialize Resistor Interface.vi" Type="VI" URL="../Initialize Resistor Interface.vi"/>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Resistor Band Colors.lvlib" Type="Library" URL="../Resistor Band Colors/Resistor Band Colors.lvlib"/>
 		<Item Name="E Series Reader.lvlib" Type="Library" URL="../E Series Reader/E Series Reader.lvlib"/>
 		<Item Name="Enum to Color Converter.lvlib" Type="Library" URL="../Enum to Color Converter/Enum to Color Converter.lvlib"/>
 		<Item Name="Front Panel Inteface.lvlib" Type="Library" URL="../Front Panel Interface/Front Panel Inteface.lvlib"/>
 		<Item Name="Control 1.ctl" Type="VI" URL="../Front Panel Interface/Control 1.ctl"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
