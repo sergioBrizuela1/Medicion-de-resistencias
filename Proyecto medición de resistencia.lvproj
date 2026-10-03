@@ -37,7 +37,6 @@
 		<Item Name="E Series Reader.lvlib" Type="Library" URL="../E Series Reader/E Series Reader.lvlib"/>
 		<Item Name="Enum to Color Converter.lvlib" Type="Library" URL="../Enum to Color Converter/Enum to Color Converter.lvlib"/>
 		<Item Name="Front Panel Inteface.lvlib" Type="Library" URL="../Front Panel Interface/Front Panel Inteface.lvlib"/>
-		<Item Name="Control 1.ctl" Type="VI" URL="../Front Panel Interface/Control 1.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
