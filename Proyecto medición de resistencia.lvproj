@@ -24,10 +24,12 @@
 			<Item Name="Digit--control.ctl" Type="VI" URL="../Digit--control.ctl"/>
 			<Item Name="Multiplier--control.ctl" Type="VI" URL="../Multiplier--control.ctl"/>
 			<Item Name="Bands to value.vi" Type="VI" URL="../Bands to value.vi"/>
+			<Item Name="Number of bands.ctl" Type="VI" URL="../Number of bands.ctl"/>
 			<Item Name="Tolerance--control.ctl" Type="VI" URL="../Tolerance--control.ctl"/>
 			<Item Name="Data--control.ctl" Type="VI" URL="../Data--control.ctl"/>
 			<Item Name="States--control.ctl" Type="VI" URL="../States--control.ctl"/>
 			<Item Name="Temp Coef--control.ctl" Type="VI" URL="../Temp Coef--control.ctl"/>
+			<Item Name="E-Series Level--enum.ctl" Type="VI" URL="../E-Series Level--enum.ctl"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="multiplier to index converter.vi" Type="VI" URL="../multiplier to index converter.vi"/>
@@ -38,6 +40,11 @@
 		<Item Name="Enum to Color Converter.lvlib" Type="Library" URL="../Enum to Color Converter/Enum to Color Converter.lvlib"/>
 		<Item Name="Front Panel Inteface.lvlib" Type="Library" URL="../Front Panel Interface/Front Panel Inteface.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Calculate Nominal Resistance.vi" Type="VI" URL="../Calculate Nominal Resistance.vi"/>
+		<Item Name="Detemine Multiplier Value.vi" Type="VI" URL="../Detemine Multiplier Value.vi"/>
+		<Item Name="Calculate Resistance Specs.vi" Type="VI" URL="../Calculate Resistance Specs.vi"/>
+		<Item Name="Resistance Values.lvlib" Type="Library" URL="../Resistance Values/Resistance Values.lvlib"/>
+		<Item Name="EDQSM Example.vi" Type="VI" URL="../../EDQSM Example.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -88,6 +95,7 @@
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="ED Queued State Machine.lvlib" Type="Library" URL="/&lt;vilib&gt;/TABOADA/Event-Driven Queued SM/ED Queued State Machine/ED Queued State Machine.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
