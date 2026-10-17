@@ -45,6 +45,13 @@
 		<Item Name="Calculate Resistance Specs.vi" Type="VI" URL="../Calculate Resistance Specs.vi"/>
 		<Item Name="Resistance Values.lvlib" Type="Library" URL="../Resistance Values/Resistance Values.lvlib"/>
 		<Item Name="EDQSM Example.vi" Type="VI" URL="../../EDQSM Example.vi"/>
+		<Item Name="In Series--cluster.ctl" Type="VI" URL="../In Series--cluster.ctl"/>
+		<Item Name="Resistance Specifications--cluster.ctl" Type="VI" URL="../Resistance Specifications--cluster.ctl"/>
+		<Item Name="Selectors--cluster.ctl" Type="VI" URL="../Selectors--cluster.ctl"/>
+		<Item Name="Colors--cluster.ctl" Type="VI" URL="../Colors--cluster.ctl"/>
+		<Item Name="Selectors Refnums--cluster.ctl" Type="VI" URL="../Selectors Refnums--cluster.ctl"/>
+		<Item Name="Colors Refnum--cluster.ctl" Type="VI" URL="../Colors Refnum--cluster.ctl"/>
+		<Item Name="Read Parameters.vi" Type="VI" URL="../Read Parameters.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
